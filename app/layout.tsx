@@ -2,7 +2,8 @@ import './globals.css';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 
-const inter = Inter({ subsets: ['latin'] });
+const inter = { className: 'font-sans' }; // system font fallback
+;
 
 export const metadata: Metadata = {
   title: 'Javari Shopping - AI-Powered Retail Assistant',
