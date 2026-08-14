@@ -138,8 +138,8 @@ export default function JavariShoppingPage() {
               <a href="https://javariai.com" className="text-slate-600 hover:text-slate-900">Javari AI</a>
             </div>
             <div className="flex items-center gap-4">
-              <a href="/login" className="text-slate-600 hover:text-slate-900">Sign In</a>
-              <a href="/signup" className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition">
+              <a href="https://craudiovizai.com/login" className="text-slate-600 hover:text-slate-900">Sign In</a>
+              <a href="https://craudiovizai.com/signup" className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition">
                 Get Started
               </a>
             </div>
@@ -345,7 +345,7 @@ export default function JavariShoppingPage() {
             Join thousands of smart shoppers who never miss a deal.
           </p>
           <a 
-            href="/signup"
+            href="https://craudiovizai.com/signup"
             className="inline-flex items-center gap-2 bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition"
           >
             Get Started Free <ArrowRight className="w-5 h-5" />
@@ -362,8 +362,8 @@ export default function JavariShoppingPage() {
               <span className="text-white font-semibold">Javari Shopping</span>
             </div>
             <div className="flex gap-6 text-slate-400">
-              <a href="/privacy" className="hover:text-white">Privacy</a>
-              <a href="/terms" className="hover:text-white">Terms</a>
+              <a href="https://craudiovizai.com/privacy" className="hover:text-white">Privacy</a>
+              <a href="https://craudiovizai.com/terms" className="hover:text-white">Terms</a>
               <a href="https://craudiovizai.com" className="hover:text-white">CR AudioViz AI</a>
             </div>
           </div>
