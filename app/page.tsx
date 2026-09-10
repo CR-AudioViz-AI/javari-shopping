@@ -124,7 +124,7 @@ export default function JavariShoppingPage() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
       {/* Navigation */}
-      <nav className="fixed top-0 w-full bg-white/80 backdrop-blur-md z-50 border-b border-slate-200">
+      <nav data-app-chrome className="fixed top-0 w-full bg-white/80 backdrop-blur-md z-50 border-b border-slate-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center gap-2">
@@ -354,7 +354,7 @@ export default function JavariShoppingPage() {
       </section>
 
       {/* Footer */}
-      <footer className="py-12 px-4 bg-slate-900">
+      <footer data-app-chrome className="py-12 px-4 bg-slate-900">
         <div className="max-w-7xl mx-auto">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center gap-2 mb-4 md:mb-0">
